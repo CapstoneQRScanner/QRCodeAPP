@@ -33,3 +33,7 @@ Frequently asked questions
   can the appplication work without camera
     no the application needs the camer inorder to scann the QR code
 -----------------------------------------------------------------------------------------------------------------------------------
+Troubleshooting
+  Restart the application and/or device
+  Make sure the device is connected to a stable access point for internet use
+  Make sure the QR code is displayed correctly
