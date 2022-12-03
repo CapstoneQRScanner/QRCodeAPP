@@ -9,9 +9,6 @@ These codes can contain many malicious attacks and cause a lot of problems withi
 We ran into many problems stitching the apis together within our project.
 This app will scan a QR code check if it is malicious via a google search database and warn the user of any malicious intent.
 
-HOW TO RUN:
-
-
 DEPENDENCIES:
 
 No DATABASES
