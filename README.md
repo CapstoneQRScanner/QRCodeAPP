@@ -13,6 +13,9 @@ HOW TO RUN:
 
 
 DEPENDENCIES:
+
 No DATABASES
+
 No Scripts
+
 Android Emulator
